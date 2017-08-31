@@ -1,0 +1,263 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2016-6-27, 11:03:30
+    Author     : Administrator
+*/
+
+
+#index-center-img{height:650px;background:url(../images/sihangfu-HOME3_08.png)center no-repeat;}
+#index-content{width:1200px;margin:20px auto;border-bottom:1px solid #A5A5A5;height:250px;}
+#index-title{width:300px;height:70px;position:relative;top:20px;left:-450px;}
+#index-span2{font-size:18px;font-family: 微软雅黑;}
+
+#index-pro{width:1200px;height:100px;font-size:14px;font-family: 微软雅黑;margin-top:30px;margin-left:0px;color:#666666;}
+#index-learn{width:163px;height:33px;position:relative;left:-520px;top:-20px;}
+#index-learn a{display:block;width:163px;height:33px;background:url(../images/sihangfu-HOME007_13.png) no-repeat;}
+#index-learn a:hover {background:url(../images/sihangfu-HOME008_05.png) no-repeat;}
+
+#index-content1{width:1200px;height:235px;margin-top:30px;}
+#index-content1-l{width:233px;height:229px;float:left;}
+#index-content1-m{width:500px;height:200px;float:left;}
+#index-span3{font-size:18px;font-family: 微软雅黑;position:relative;left:40px;top:17px;}
+#index-content1-m img {position:relative;top:20px;left:30px;}
+#index-product{font-size:14px;font-family: 微软雅黑;margin-top:30px;position:relative;top:10px;left:30px;color:#666666;}
+#index-content1-img a{display:block;width:161px;height:33px;background:url(../images/sihangfu-HOME007_13.png) no-repeat;position:relative;top:40px;left:-140px;}
+#index-content1-img a:hover {background:url(../images/sihangfu-HOME008_05.png) no-repeat;}
+
+#index-content1-r{width:251px;height:200px;float:left;margin-left:215px;}
+#index-content1-r-img{margin-top:20px;}
+#index-content1-r-img1{margin-top:20px;display:none;}
+
+#index-content2{height:545px;width:100%;background:url(../images/sihangfu-HOME7_18.png)center;margin-top:50px;}
+.index-content2-title{width:200px;height:70px;position:relative;top:30px;left:-497px;}
+#index-span4{font-size:18px;font-family: 微软雅黑;position:relative;left:10px;top:-3px;color:white;}
+#index-content2-pic{width:1200px;height:232px;position:relative;top:20px;left:-22px;}
+#index-content2-pic li{float:left;margin-left:19px;width:375px;height:332px;cursor:pointer;}
+#index-content3{width:1200px;height:500px;margin:0 auto;}
+#index-content3-title{width:200px;height:70px;position:relative;top:30px;left:-505px;}
+#index-span5{font-size:18px;font-family: 微软雅黑;position:relative;left:10px;top:-3px;}
+#index-content3-l{width:250px;height:320px;float:left;background:black;position:relative;top:25px;left:-5px;}
+#index-content3-m{width:350px;height:328px;position:relative;top:-200px;left:-89px;}
+#index-content3-r{width:452px;height:380px;position:relative;top:-630px;left:385px;}
+#index-content3-ls{width:270px;height:328px;position:relative;top:50px;left:-440px;}
+#index-span6{font-size:20px;font-family: 微软雅黑;font-weight: bold;}
+#index-span7{font-size:12px;font-family: 微软雅黑;color:#999999;width:100px;position:relative;top:5px;}
+#index-span8{font-size:12px;font-family: 微软雅黑;color:#666666;position:relative;top:35px;font-weight: bold;line-height:25px;}
+#index-content3-img a{display:block;width:161px;height:33px;background:url(../images/sihangfu-HOME007_13.png) no-repeat;position:relative;top:93px;left:-95px;}
+#index-content3-img a:hover {background:url(../images/sihangfu-HOME008_05.png) no-repeat;}
+.index-content3-r1 a{display:block;width:430px;height:115px;margin-bottom:5px;background:url(../images/sihangfu-HOME011_22.png);color:#333333;}
+#index-content3-r11 a{display:block;width:430px;height:115px;margin-bottom:5px;background:url(../images/sihangfu-HOME010_22.png);color:white;}
+.index-span9{font-size:29px;font-family:黑体;position:relative;top:30px;left:30px;}
+.index-span11{font-size:16px;font-family:微软雅黑;}
+.index-span10{font-size:14px;font-family:黑体;position:relative;left:75px;}
+.pic-img{width:375px;height:323px;}
+.pic-img:hover  .index-pic-content{background:#F08200;cursor:pointer;}
+.pic-img:hover  .index-pic-content p{color:white;cursor:pointer;}
+.pic-img:hover  .index-pic-content div{color:white;cursor:pointer;}
+.index-content3-r1 a:hover {background:url(../images/sihangfu-HOME010_22.png);color:white;}
+
+#index-content-r-bg{display:block;width:251px;height:76px;background:url(../images/product3_03.png) no-repeat;margin-top:30px;}
+#index-content-r-bg:hover {background:url(../images/sihangfu-HOME009_09.png) no-repeat;}
+
+#index-left{position:relative;top:-209px;left:-640px;}
+#index-right{position:relative;top:-209px;left:640px;}
+.index-pic-content{width:375px;height:100px;position:relative;top:-3px;z-index:999;background:white;}
+.index-pic-content p{font-size:18px;font-family: 微软雅黑;margin-left:10px;position:relative;top:8px;}
+.index-pic-content div{font-size:14px;font-family: 微软雅黑;color:#a3aab1;margin-left:10px;line-height:25px;margin-top:10px;}
+.index-content-r-bg1{display:block;width:251px;height:76px;background:url(../images/product1_03.png) no-repeat;margin-top:30px;}
+.index-content-r-bg1:hover {background:url(../images/sihangfu-HOME4_14.png) no-repeat;}
+#help-center{width:100%;height:250px;background:url(../images/sihangfu-helper_02_1.png)center no-repeat;}
+.help-center-span{width:200px;height:80px;position:relative;top:105px;left:-463px;}
+#help-span{font-family: 微软雅黑;font-size:27px;color:white;}
+#help-span1{font-family: Arial;font-size:18px;color:white;letter-spacing: 2px;}
+#help-title{border-bottom:1px solid #CBCBCB;width:1200px;height:50px;}
+#help-title-l{float:left;width:250px;font-size:12px;font-family: 微软雅黑;line-height:50px;}
+
+#help-title-r{float:right;font-size:18px;font-family: 微软雅黑;margin-left:300px;line-height:50px;}
+#help-title-r li{float:left;margin-left:80px;}
+#help-title-r a{color:black;display:block;width:80px;height:50px;text-align:center;}
+#help-title-r a:hover {border-bottom:2px solid #F08200;}
+#help-content{width:1200px;margin-top:30px;}
+.help-Div{width:1200px;border-bottom:1px dashed #E0E0E0;line-height:50px;font-size:18px;font-family: 微软雅黑;}
+.help-Div a{display:block;width:33px;height:18px;}
+.help-Div div{display:none;}
+.help-Div2{font-size:14px;font-family: 微软雅黑;}
+.help-Div .help-imgs{display:none;}
+#help-span2{font-size:24px;font-family: 微软雅黑;}
+#email{width:300px;height:40px;margin-top:30px;font-size:14px;font-family: 微软雅黑;color:#bfbfbf;}
+#help-qu{width:1200px;height:200px;margin-top:25px;font-size:14px;font-family: 微软雅黑;color:#bfbfbf;}
+#help-tijiao{width:1200px;margin:0 auto;margin:50px auto;height:400px;}
+#help-sub{border:1px solid #BFBFBF;color:#bfbfbf;font-size:18px;font-family: 微软雅黑;width:150px;height:40px;background:white;border-radius: 6px;position:relative;top:25px;left:500px;}
+
+
+.product-center{width:100%;height:250px;background:url(../images/sihangfu-product03_02.png)center;}
+.product-Div{width:200px;height:100px;font-size:27px;font-family: 微软雅黑;color:white;position:relative;top:105px;left:-470px;}
+.product-span{font-size:18px;font-family: 微软雅黑;color:white;}
+.product-content-title{border-bottom:1px solid #CBCBCB;width:1200px;height:50px;}
+.product-content-l{float:left;width:250px;font-size:12px;font-family: 微软雅黑;line-height:50px;}
+.product-content-r{float:right;font-size:18px;font-family: 微软雅黑;margin-left:300px;line-height:50px;}
+.product-content-r a{color:black;display:block;width:80px;height:50px;text-align:center;border-bottom:2px solid #F08200; }
+.product-wenzi{width:1200px;min-height:800px;font-family: 微软雅黑;}
+
+.wenzi-left{float: left;width: 890px;}
+.wenzi-left .wenzi-title{margin-bottom:10px;margin-top:20px;font-family: 微软雅黑;font-size: 18px;color:#333333;height: 18px; word-spacing:8px; letter-spacing: 3px;text-shadow:0px 0px 0.5px #666;}
+.wenzi-left .wenzi-title2{font-family: 微软雅黑;font-size: 16px;color:#333;text-shadow:0px 0px 0.5px #666;}
+.wenzi-left div {margin-top:20px;}
+.wenzi-left .wenzi-content { font-family: 微软雅黑;font-size: 14px;color:#333;line-height: 30px;}
+
+.wenzi-right{float: right;}
+.product-more{width:890px;height:30px;background:#f3bc7b;color:white;line-height:30px;text-align:center;letter-spacing: 2px;cursor:pointer;}
+.wenzi-right-top{width:250px;height:110px;border:1px solid #c6c6c6;margin-top:30px;font-family: 微软雅黑;font-size:18px;}
+.wenzi-right1{width:250px;height:53px;border-bottom:1px solid #9e9e9e;}
+.wenzi-right2{width:250px;height:53px;}
+.wenzi-right-bottom{width:250px;height:155px;margin-top:35px;}
+.product-img1{width:250px;height:76px;margin-bottom:5px;}
+.product-img1 a{display:block;width:250px;height:76px;background:url(../images/product1_03.png) no-repeat -1px 0;}
+.product-img1 a:hover {background:url(../images/sihangfu-HOME4_14.png) no-repeat -1px 0;}
+.product-img2 a{display:block;width:250px;height:76px;background:url(../images/product3_03.png) no-repeat;}
+.product-img2 a:hover {background:url(../images/sihangfu-HOME009_09.png) no-repeat;}
+.wenzi-right-a1{display:block;width:250px;height:35px;position:relative;top:10px;}
+.wenzi-right-a1:hover {border-right:2px solid #f08200;cursor:pointer;}
+.wenzi-right-a2{display:block;width:250px;height:35px;position:relative;top:10px;}
+.wenzi-right-a2:hover {border-right:2px solid #f08200;cursor:pointer;}
+.product-more-content{width:890px;display:none;font-size:14px;font-family: 微软雅黑;position:relative;}
+.product-more-content .wenzi-title2{font-family: 微软雅黑;font-size: 16px;color:#333;text-shadow:0px 0px 0.5px #666;}
+.product-more-content .wenzi-content { font-family: 微软雅黑;font-size: 14px;color:#333;line-height: 30px;}
+
+
+.case-center{width:100%;height:250px;background:url(../images/sihangfu-case01_02.png)center no-repeat;}
+.case-title{font-size:27px;font-family: 微软雅黑;color:white;width:200px;height:80px;position:relative;top:105px;left:-470px;}
+.case-title span {font-size:18px;font-family: Arial;color:white;}
+.case-content-title{border-bottom:1px solid #CBCBCB;width:1200px;height:50px;}
+.case-content-l{float:left;width:250px;font-size:12px;font-family: 微软雅黑;line-height:50px;}
+.case-content-r{float:right;font-size:18px;font-family: 微软雅黑;margin-left:300px;line-height:50px;}
+.case-content-r a{color:black;display:block;width:80px;height:50px;text-align:center;border-bottom:2px solid #F08200; }
+.case-content-img{width:1200px;margin:0 auto;}
+
+.case-content-top{width:1200px;height:335px;border-bottom:1px dashed #CCCCCC;margin-top:20px;font-size:14px;font-family: 微软雅黑;letter-spacing: 1px;color:#333333;}
+.case-content-con{width:1200px;height:335px;border-bottom:1px dashed #CCCCCC;margin-top:20px;font-size:14px;font-family: 微软雅黑;letter-spacing: 1px;color:#333333;}
+.case-content-bom{width:1200px;height:335px;border-bottom:1px dashed #CCCCCC;margin-top:20px;font-size:14px;font-family: 微软雅黑;letter-spacing: 1px;color:#333333;}
+.case-content-top li{float:left;margin-top:20px;}
+.case-content-con li{float:left;margin-top:20px;}
+.case-content-bom li{float:left;margin-top:20px;}
+.case-content-top .li-02{margin-left:41px;}
+.case-content-top .li-03{margin-left:41px;}
+.case-content-con .li-02{margin-left:41px;}
+.case-content-con .li-03{margin-left:41px;}
+.case-content-bom .li-02{margin-left:41px;}
+.case-content-bom .li-03{margin-left:41px;}
+.case-more-content{width:1200px;height:335px;border-bottom:1px dashed #CCCCCC;margin-top:20px;font-size:14px;font-family: 微软雅黑;letter-spacing: 1px;color:#333333;display:none;}
+.case-more-content li{float:left;}
+.case-more-content .li-02{margin-left:41px;}
+.case-more-content .li-03{margin-left:41px;}
+
+
+.case-content-img li {position: relative;}
+.case-content-img .li-title{background-color: rgba(0,0,0,0.5);color:#fff;width: 370px;height: 45px;position: absolute;top:192px;line-height: 45px;font-size:16px;text-align: center;font-weight: bold; }
+
+.case-content-img .learnmore{display: none;background-color: rgba(0,0,0,0.5);height:237px;width:370px;font-size: 16px;color:#fff;text-align: center;font-weight: bold;position: absolute;top: 0px;}
+.case-content-img .learnmore p{margin-top: 90px;margin-bottom:25px;  }
+.case-content-img .btn-learnmore{cursor:pointer;width: 103px;height: 31px;border: 1px solid #fff;border-radius: 3px;line-height: 29px;font-size: 14px;font-weight: normal;}
+
+
+
+
+
+.contact-center{width:100%;height:250px;background:url(../images/sihangfu-about-contact_02.png)center no-repeat;}
+.contact-center-title{width:200px;height:80px;position:relative;top:105px;left:-470px;font-family: 微软雅黑;font-size:27px;color:white;}
+.contact-center-title span{font-size:18px;font-family: Arial;color:white;}
+.contact-content{width:1200px;min-height:530px;}
+.contact-content-top{border-bottom:1px solid #CBCBCB;width:1200px;height:50px;}
+.contact-content-cen{width:1200px;height:500px;margin-top:35px;}
+#contact-content-map{width:600px;height:400px;float:left;}
+.contact-content-add{width:420px;height:250px;float:left;margin:80px 0 0 40px;}
+.contact-add-top{width:420px;height:80px;}
+.contact-add-img{width:152px;height:50px;border-right:1px solid #BDBDBD;background:url(../images/sihangfu-HOME3_02.png) no-repeat -1px -26px;position:relative;left:-128px;}
+.contact-add-top span{font-size:18px;font-family: 微软雅黑;position:relative;left:170px;top:-35px;}
+.contact-add-bom{width:420px;height:130px;font-family: 微软雅黑;font-size:14px;line-height:30px;}
+.contact-li{font-size:16px;}
+
+.contact-zhanxian{width:1200px;height:895px;}
+.contact-zhaoxian-content{width:1200px;min-height:820px;}
+.contact-zhaoxian-con{width:1200px;height:400px;border-bottom:1px solid #D4D4D4;margin-top:20px;}
+.contact-zhaoxian-ti{width:200px;height:30px;font-size:24px;font-family: 微软雅黑;position:relative;left:-500px;}
+.contact-zhaoxian-ti img{margin-right:10px;}
+.zhaoxian-content{width:1100px;height:350px;margin-left:55px;font-size:14px;font-family: 微软雅黑;line-height:30px;}
+.zhaoxian-content p{font-size:14px;font-family: 微软雅黑;font-weight: bold;}
+.zhaoxian-more{width:1200px;height:30px;background:#F3BC7B;letter-spacing: 2px;text-align:center;line-height:30px;color:white;font-family: 微软雅黑;cursor:pointer;}
+.zhaoxian-more-content{display:none;width:1200px;height:400px;}
+.zhaoxian-top{width:55px;height:44px;position:relative;left:630px;top:-40px;}
+.zhaoxian-email{color:#f08200;font-size:14px;font-family: 微软雅黑;margin-top:20px;width:1200px;height:30px;position:relative;top:-40px;}
+
+.company-content{width:1200px;min-height:750px;margin-bottom:20px;}
+.company-bom{width:1200px;height:650px;margin-top:30px;}
+.company-bom1{width:420px;height:60px;}
+.company-bom1-img{width:160px;height:60px;background:url(../images/sihangfu-HOME3_02.png) no-repeat 0px -20px;float:left;border-right:1px solid #D4D4D4;}
+.company-bom1 span{font-size:18px;font-family: 微软雅黑;position:relative;top:20px;letter-spacing: 1px;left:15px;}
+.company-bom2{width:1200px;height:270px;margin-top:50px;line-height:30px;}
+.company-bom-span{font-size:14px;font-family: 微软雅黑;letter-spacing: 2px;color:#333333;}
+.company-bom3{width:1200px;height:260px;}
+.company-bom3 img{float:left;}
+
+
+.news-center{width:100%;height:250px;background:url(../images/sihangfu-news1_02.png) center no-repeat;}
+.news-center-title{width:200px;height:80px;position:relative;top:105px;left:-470px;font-family: 微软雅黑;font-size:27px;color:white;}
+.news-center-title span{font-family: 微软雅黑;font-size:18px;color:white;}
+.news-content{width:1200px;min-height:1033px;}
+.news-bom{width:1200px;height:965px;margin-top:20px;}
+.news-bom-t{width:1200px;height:300px;border-bottom:1px solid #ECECEC;}
+.news-b-l{width:539px;height:257px;float:left;}
+.news-b-r{width:600px;height:240px;float:left;margin-left:20px;}
+.news-span1{font-size:24px;font-family: 微软雅黑;}
+.news-b-r a{font-size:14px;font-family: 微软雅黑;color:#999999;}
+.news-span2{font-size:14px;font-family: 微软雅黑;position:relative;top:30px;line-height:25px;}
+.news-a{display:block;width:161px;height:33px;background:url(../images/sihangfu-HOME007_13.png) no-repeat;position:relative;top:60px;left:-224px;}
+.news-a:hover {background:url(../images/sihangfu-HOME008_05.png) no-repeat;}
+.news-bom-b{width:1200px;height:600px;}
+.news-bom-m{width:1200px;height:157px;background:url(../images/sihangfu-news004_05.png) no-repeat;margin-bottom:8px;}
+.news-bom-m a{display:block;width:1200px;height:157px;}
+.news-bom-m a:hover {background:url(../images/sihangfu-news003_05.png) no-repeat; }
+.news-bom-1{width:100px;height:97px;float:left;margin:30px 0 0 25px;}
+.news-bom-2{width:830px;height:97px;float:left;margin:30px 0 0 25px;}
+.news-bom-3{width:150px;height:97px;float:left;margin:30px 0 0 25px;}
+.news-p1{font-size:16px;font-family: 微软雅黑;color:#C8C8C8;margin-top:8px;}
+.news-p2{font-size:57px;font-family: 黑体;color:#A3A3A3;}
+.news-bom2-sp1{font-size:18px;font-family: 微软雅黑;position:relative;top:10px;color:#333333;}
+.news-bom2-sp2{font-size:14px;font-family: 微软雅黑;position:relative;top:20px;color:#999999;}
+.news-bom-m:hover .news-p1,.news-bom-m:hover .news-p2,.news-bom-m:hover .news-bom2-sp2 {color:#333333;}
+.news-more{width:1200px;height:30px;background:#F3BC7B;line-height:30px;text-align:center;letter-spacing: 2px;font-family: 微软雅黑;color:white;margin-bottom:20px;cursor:pointer;}
+
+.showmore {display:none;}
+.on{display:block;}
+.news-top{width:55px;height:44px;position:relative;left:650px;top:-60px;}
+
+
+
+
+
+
+.news-detial-content{width:1200px;min-height:880px;}
+.news-detail{width:1200px;height:790px;margin-top:30px;}
+.news-detail-t{width:1200px;height:90px;border-bottom:1px solid #CCCCCC;}
+.news-detail-b{width:1200px;height:680px;border-bottom:1px solid #CCCCCC;}
+.news-detail-sp1{font-size:24px;font-family: 微软雅黑;position:relative;left:450px;}
+.news-detail-sp2{font-size:14px;font-family: 微软雅黑;color:#999999;position:relative;left:510px;top:30px;}
+
+.detail-wenzi1{font-size:14px;font-family: 微软雅黑;letter-spacing: 1px;}
+.detial-wenzi2{font-size:14px;font-family: 微软雅黑;position:relative;top:30px;letter-spacing: 1px;}
+.detial-wenzi3{font-size:14px;font-family: 微软雅黑;position:relative;top:60px;letter-spacing: 1px;}
+.news-detail-b img{margin:30px 0 0 200px;}
+.detail-page{width:1200px;height:30px;margin-bottom:50px;}
+.detail-prev{display:block;width:340px;height:30px;border-right:1px solid #5B5B5B;font-size:14px;font-family: 微软雅黑;position:relative;left:-435px;line-height:30px;}
+.detail-next{display:block;width:380px;height:30px;font-size:14px;font-family: 微软雅黑;position:relative;top:-25px;left:-15px;}
+.detail-prev:hover ,.detail-next:hover  {color:#F08A18;}
+
+
+
+
+.pic-jiantou-or{display:none;}
+.pic-jiantou{position:relative;top:-112px;left:307px;}

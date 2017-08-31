@@ -1,0 +1,27 @@
+</div>
+</div>
+</div>
+<script src="js/jquery.min.js"></script>
+<script>
+    $().ready(function(){
+        var item = $(".public-ifame-item");
+
+        for(var i=0; i < item.length; i++){
+            $(item[i]).on('click',function(){
+                $(".ifame-item-sub").hide();
+                if($(this.lastElementChild).css('display') == 'block'){
+                    $(this.lastElementChild).hide()
+                    $(".ifame-item-sub li").removeClass("active");
+                }else{
+                    $(this.lastElementChild).show();
+                    $(".ifame-item-sub li").on('click',function(){
+                        $(".ifame-item-sub li").removeClass("active");
+                        $(this).addClass("active");
+                    });
+                }
+            });
+        }
+    });
+</script>
+</body>
+</html>

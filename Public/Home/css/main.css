@@ -1,0 +1,109 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2016-6-28, 15:20:51
+    Author     : Administrator
+*/
+.clear{clear:both;}
+*{margin:0 auto;padding:0;list-style:none;text-decoration: none;}
+a{cursor:pointer;}
+
+#header{width:1200px;height:102px;margin-bottom:3px;}
+#header-img{float:left;}
+#header-title{float:left;margin-left:250px;width:750px;position:relative;overflow:hidden;}
+/*.box-lanrenzhijia li{float:left;font-family: 微软雅黑;font-size:16px;line-height:102px;margin-left:50px;}
+.box-lanrenzhijia li a{color: #000;display:block;height:102px;}
+.box-lanrenzhijia li a:hover {border-bottom:3px solid #f27b04;}*/
+
+#header-title li{display:block;float:left;line-height:32px;padding-right:2px;line-height:32px;margin-left:50px;font-family: 微软雅黑;font-size:16px;line-height:102px;}
+#header-title li a{display:block;position:relative;color: #000;height:102px;}
+/*#header-title li a:hover,#container li a.cur{background:#222;}*/
+#buoy{position:absolute;width:64px;height:3px;background:#f27b04;top:98px;left:-70px;}
+/*.line{height:3px;width:80px;background:#f27b04;position:absolute;left:37%;top:102px;}*/
+
+/*.box-lanrenzhijia {
+	position: relative;
+	height: 105px;
+	width: 600px;
+	padding:15px;
+	margin: 10px auto;
+	overflow: hidden;
+}
+
+.box-lanrenzhijia li.back {
+	border-bottom: 3px solid #f27b04;
+	width:9px;
+	height:100px;
+	z-index: 8;
+	position: absolute;
+}
+.box-lanrenzhijia li a {
+	color: #000;
+	outline: none;
+	text-align: center;
+	top: 7px;
+	text-transform: uppercase;
+	letter-spacing: 0;
+	z-index: 10;
+	display: block;
+	float: left;
+	height: 30px;
+	position: relative;
+	overflow: hidden;
+	margin: auto 10px;
+}
+.box-lanrenzhijia li a:hover, .box-lanrenzhijia li a:active, .box-lanrenzhijia li a:visited {
+	border: none;
+}*/
+
+
+
+#search{position:relative;top:38px;width:24px;height:25px;float:right;left:-30px;}
+.search-k{width:1200px;height:35px;}
+.search-k .input1{width:150px;height:35px;border:1px solid #666666;position:relative;left:1090px;display:none;border-radius: 3px;font-family: 微软雅黑;}
+.search-k .submit{width:24px;height:25px;position:relative;background:url(../images/HOME4_05.png)center ; border:1px solid  red;left:1060px;top:6px;border:none;display:none;}
+
+
+
+.footer{width:100%;height:280px;}
+.footer-top{width:100%;height:240px;background:#E3E3E3;}
+.footer-bom{width:100%;height:40px;background:#f0f0f0;font-size:12px;font-family:微软雅黑;position:relative;line-height:40px;}
+.footer-t{width:1200px;height:240px;}
+.footer-top-l{width:500px;height:200px;float:left;line-height:20px;font-family:微软雅黑;font-size:14px;}
+.footer-top-cen{width:250px;height:200px;float:left;}
+.footer-top-r{width:450px;height:200px;float:left;}
+.footer-top-l ul{margin-top:50px;}
+#footer-li{font-size:21px;font-family:微软雅黑;margin-bottom:10px;}
+.footer-top-r img{margin-left:23px;float:right;margin-top:40px;}
+#index-span11{position:relative;top:136px;left:335px;font-size:14px;font-family: 微软雅黑;}
+.index-span12{position:relative;top:155px;left:170px;font-size:14px;font-family: 微软雅黑;}
+#footer-img1{position:relative;top:-50px;}
+#footer-img2{position:relative;top:-50px;left:10px;}
+.footer-bom-w {width:1200px;height:40px;font-size:12px;font-family: 微软雅黑;color:#767575;}
+/*.footer-top-r{width:300px;height:200px;border:1px solid red;}*/
+/*#f-container{position:relative;width:1200px;margin:0px auto;height:240px;}*/
+/*#footer-l{float:left;width:500px;height:240px;background:red;}
+#footer-r{float:left;width:400px;height:240px;background:yellow;}*/
+/*#footer-l{font-size:16px;font-family:微软雅黑;line-height:30px;float:left;position:relative;right:800px;top:50px;}
+#footer-l ul{width:450px;}
+#footer-li{font-size:21px;font-family:微软雅黑;}
+#footer-r{float:left;width:320px;position:relative;top:-75px;right:-60px;}
+#footer-r img{margin-left:23px;}
+#footer-r a{position:relative;top:0px;left:33px;font-size:14px;font-family: 微软雅黑;width:100px;}
+#index-span11{position:relative;top:0px;left:85px;font-size:14px;font-family: 微软雅黑;}
+#footer-img1{position:relative;top:190px;left:-1250px;}
+#footer-img2{position:relative;top:165px;left:-1210px;}
+#footers{width:100%;height:50px;background:#f0f0f0;}
+#footers-d {font-size:12px;font-family:微软雅黑;position:relative;width:400px;left:-400px;top:-17px;}*/
+#helps{border-bottom:3px solid #FF8A00; }
+#products{border-bottom:3px solid #FF8A00; }
+.product-top{position:relative;top:-40px;left:550px;width:55px;height:44px;}
+.case-more{width:1200px;height:30px;background:#F3BC7B;line-height:30px;text-align:center;letter-spacing: 2px;color:white;font-size:16px;font-family: 微软雅黑;margin-top:20px;cursor:pointer;}
+.case-top{position:relative;left:640px;top:-40px;width:55px;height:44px;}
+.cases{border-bottom:3px solid #FF8A00; }
+.abouts{border-bottom:3px solid #FF8A00; }
+.news1{border-bottom:3px solid #FF8A00; }
+#btn{width:60px;height:48px;}
