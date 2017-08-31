@@ -27,7 +27,7 @@
             <state relative-caret-position="69">
               <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="21" />
               <folding>
-                <marker date="1496155083136" expanded="true" signature="792:896" ph="SELECT * FRO... admin" />
+                <marker date="1504184316470" expanded="true" signature="792:896" ph="SELECT * FRO... admin" />
               </folding>
             </state>
           </provider>
@@ -122,12 +122,12 @@
         <option value="$PROJECT_DIR$/Application/Home/View/Index/aboutContact.html" />
         <option value="$PROJECT_DIR$/Application/Admin/Index/index.html" />
         <option value="$PROJECT_DIR$/Application/Admin/index.html" />
-        <option value="$PROJECT_DIR$/Application/Admin/Controller/IndexController.class.php" />
         <option value="$PROJECT_DIR$/Application/Admin/View/Index/login.html" />
         <option value="$PROJECT_DIR$/Application/Admin/View/Public/footer.html" />
         <option value="$PROJECT_DIR$/Application/Admin/View/Public/header.html" />
         <option value="$PROJECT_DIR$/Application/Admin/View/Index/index.html" />
         <option value="$PROJECT_DIR$/Application/Admin/Controller/SecondController.class.php" />
+        <option value="$PROJECT_DIR$/Application/Admin/Controller/IndexController.class.php" />
       </list>
     </option>
   </component>
@@ -577,12 +577,12 @@
       <workItem from="1496063886495" duration="5867000" />
       <workItem from="1496153867760" duration="1905000" />
       <workItem from="1496211743715" duration="15000" />
-      <workItem from="1504181148495" duration="1154000" />
+      <workItem from="1504181148495" duration="1604000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32422000" />
+    <option name="totallyTimeSpent" value="32872000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="744" extended-state="1" />
@@ -977,7 +977,7 @@
         <state relative-caret-position="69">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="21" />
           <folding>
-            <marker date="1496155083136" expanded="true" signature="792:896" ph="SELECT * FRO... admin" />
+            <marker date="1504184316470" expanded="true" signature="792:896" ph="SELECT * FRO... admin" />
           </folding>
         </state>
       </provider>
